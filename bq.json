@@ -1,0 +1,36 @@
+{
+  "BigQuery Schema": [
+    {
+      "name": "ID",
+      "type": "STRING"
+    },
+    {
+      "name": "Status",
+      "type": "STRING"
+    },
+    {
+      "name": "Event",
+      "type": "STRING"
+    },
+    {
+      "name": "Details",
+      "type": "STRING"
+    },
+    {
+      "name": "City",
+      "type": "STRING"
+    },
+    {
+      "name": "State",
+      "type": "STRING"
+    },
+    {
+      "name": "Start_Date",
+      "type": "STRING"
+    },
+    {
+      "name": "End_Date",
+      "type": "STRING"
+    }
+  ]
+}
